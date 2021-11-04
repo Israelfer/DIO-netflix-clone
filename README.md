@@ -4,7 +4,7 @@ Projeto simples de clone da tela inicial da Netflix, do curso da Digital Inovati
 
 ## Prévia
 
-![Imagem prévia](./img/previa.png)
+![Imagem prévia](./img/previa.jpg)
 
 ## Link
 [github.io/DIO-netflix-clone](https://israelfer.github.io/DIO-netflix-clone)
